@@ -1,7 +1,7 @@
 # Gauss_seidel_and_jacobi_implementation
 This project implements the Jacobi and Gauss-Seidel iterative methods for solving systems of linear equations. These numerical techniques are widely used for solving large sparse linear systems, commonly found in engineering and scientific computing.
 
-#Features
+# Features
 
 Implementation of Jacobi and Gauss-Seidel methods
 
